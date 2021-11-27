@@ -8,7 +8,7 @@ public class GraphNode implements NodeData {
     private String info;
     private int tag;
 
-    public GraphNode(){
+    public GraphNode(int key, GeoLocation g){
 
     }
 
