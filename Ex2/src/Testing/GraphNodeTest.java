@@ -30,6 +30,7 @@ class GraphNodeTest {
     GraphNode e = new GraphNode(4, p5);
 
 
+
     /**
      * checking if we can get the key from the node
      */
@@ -101,18 +102,25 @@ class GraphNodeTest {
 
     @Test
     void getInfo() {
-
+        a.setInfo("Testing");
+        assertEquals("Testing", a.getInfo());
     }
 
     @Test
     void setInfo() {
+        a.setInfo("Testing");
+        assertEquals("Testing", a.getInfo());
     }
 
     @Test
     void getTag() {
+        b.setTag(10);
+        assertEquals(10,b.getTag());
     }
 
     @Test
     void setTag() {
+        b.setTag(10);
+        assertEquals(10,b.getTag());
     }
 }
