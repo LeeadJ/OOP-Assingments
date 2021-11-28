@@ -3,9 +3,9 @@ package Ex2;
 import api.EdgeData;
 
 public class NodeEdge implements EdgeData {
-    private int src;
-    private int dest;
-    private double weight;
+    private final int src;
+    private final int dest;
+    private final double weight;
     private String info;
     private int tag;
 
@@ -14,7 +14,7 @@ public class NodeEdge implements EdgeData {
         this.src = Src;
         this.weight = Weight;
         this. dest = Dest;
-        this.info = null;
+
 
     }
     // Copy:
