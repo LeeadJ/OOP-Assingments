@@ -9,6 +9,9 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class GraphNodeTest {
+    /**
+     * building Nodes and running tests on the GraphNode Class
+     */
     Point3D p1 = new Point3D(35.19589389346247,32.10152879327731,0.0);
     Point3D p2 = new Point3D(35.20319591121872,32.10318254621849,0.0);
     Point3D p3 = new Point3D(35.20752617756255,32.1025646605042,0.0);
@@ -27,8 +30,9 @@ class GraphNodeTest {
     GraphNode e = new GraphNode(4, p5);
 
 
-
-
+    /**
+     * checking if we can get the key from the node
+     */
     @Test
     void getKey() {
         Assertions.assertEquals(0, a.getKey());
@@ -39,6 +43,9 @@ class GraphNodeTest {
 
     }
 
+    /**
+     * checking if we can get the geolocation from a node
+     */
     @Test
     void getLocation() {
         Assertions.assertEquals(p1, a.getLocation());
@@ -48,6 +55,9 @@ class GraphNodeTest {
         Assertions.assertEquals(p5, e.getLocation());
     }
 
+    /**
+     * checking if we can set the geolocation of a node
+     */
     @Test
     void setLocation() {
         a.setLocation(p6);
@@ -61,6 +71,9 @@ class GraphNodeTest {
 
     }
 
+    /**
+     * checking if we can get the weight associated with a node
+     */
     @Test
     void getWeight() {
         a.setWeight(33.0);
@@ -72,12 +85,23 @@ class GraphNodeTest {
 
     }
 
+    /**
+     * checking if we can set the weight associated with a node
+     */
     @Test
     void setWeight() {
+        a.setWeight(33.0);
+        b.setWeight(44.5);
+        c.setWeight(28.22);
+        Assertions.assertEquals(33.0, a.getWeight());
+        Assertions.assertEquals(44.5, b.getWeight());
+        Assertions.assertEquals(28.22, c.getWeight());
     }
+
 
     @Test
     void getInfo() {
+
     }
 
     @Test
