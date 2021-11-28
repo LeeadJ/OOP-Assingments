@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c81a073b-81f6-4719-863a-304f4274799c" name="Changes" comment="gitignore upate">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21Q6qx0nApXzpGC3i9aptKJKotv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Testing" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GraphNodeTest">
+    <configuration name="GraphNodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP-Assingments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.GraphNodeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphNodeTest.getLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP-Assingments" />
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.GraphNodeTest" />
+      <option name="METHOD_NAME" value="getLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphNodeTest.getWeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP-Assingments" />
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.GraphNodeTest" />
+      <option name="METHOD_NAME" value="getWeight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphNodeTest.setLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP-Assingments" />
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.GraphNodeTest" />
+      <option name="METHOD_NAME" value="setLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point3DTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP-Assingments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.Point3DTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphNodeTest" />
+        <item itemvalue="JUnit.Point3DTest" />
+        <item itemvalue="JUnit.GraphNodeTest.getWeight" />
+        <item itemvalue="JUnit.GraphNodeTest.setLocation" />
+        <item itemvalue="JUnit.GraphNodeTest.getLocation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c81a073b-81f6-4719-863a-304f4274799c" name="Changes" comment="" />
+      <created>1637861160986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637861160986</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1637861244453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637861244453</updated>
+    </task>
+    <task id="LOCAL-00002" summary="leead pull test and deleted file">
+      <created>1637862466709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637862466709</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added Ex2 files">
+      <created>1637863313064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637863313064</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Node object">
+      <created>1638034335049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638034335049</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Point3D object">
+      <created>1638034357307</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638034357307</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ex2 text">
+      <created>1638034370439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638034370439</updated>
+    </task>
+    <task id="LOCAL-00007" summary="P">
+      <created>1638035864331</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638035864331</updated>
+    </task>
+    <task id="LOCAL-00008" summary="GraphNode constructor">
+      <created>1638036836982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638036836982</updated>
+    </task>
+    <task id="LOCAL-00009" summary="NodeEdge object">
+      <created>1638036852619</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638036852619</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DirectedWeightedGraph object">
+      <created>1638038022466</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1638038022466</updated>
+    </task>
+    <task id="LOCAL-00011" summary="renamed readme file">
+      <created>1638038078397</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638038078397</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added Data">
+      <created>1638039615005</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1638039615005</updated>
+    </task>
+    <task id="LOCAL-00013" summary="moved src into Ex2 package">
+      <created>1638090948397</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1638090948397</updated>
+    </task>
+    <task id="LOCAL-00014" summary="created testing package">
+      <created>1638090963060</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1638090963060</updated>
+    </task>
+    <task id="LOCAL-00015" summary="spelling mistake fixed">
+      <created>1638090981839</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1638090981839</updated>
+    </task>
+    <task id="LOCAL-00016" summary="tests from Node, didn't do info and tag">
+      <created>1638091698029</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1638091698029</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Point 3D test done">
+      <created>1638092020981</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1638092020987</updated>
+    </task>
+    <task id="LOCAL-00018" summary="change key to final">
+      <created>1638092057186</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1638092057186</updated>
+    </task>
+    <task id="LOCAL-00019" summary="spelling mistake">
+      <created>1638092137927</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1638092137927</updated>
+    </task>
+    <task id="LOCAL-00020" summary="finished test for node">
+      <created>1638092811128</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1638092811128</updated>
+    </task>
+    <task id="LOCAL-00021" summary="gitignore upate">
+      <created>1638092897771</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1638092897771</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init commit" />
+    <MESSAGE value="leead pull test and deleted file" />
+    <MESSAGE value="added Ex2 files" />
+    <MESSAGE value="Node object" />
+    <MESSAGE value="Point3D object" />
+    <MESSAGE value="Ex2 text" />
+    <MESSAGE value="P" />
+    <MESSAGE value="GraphNode constructor" />
+    <MESSAGE value="NodeEdge object" />
+    <MESSAGE value="DirectedWeightedGraph object" />
+    <MESSAGE value="renamed readme file" />
+    <MESSAGE value="added Data" />
+    <MESSAGE value="moved src into Ex2 package" />
+    <MESSAGE value="created testing package" />
+    <MESSAGE value="spelling mistake fixed" />
+    <MESSAGE value="tests from Node, didn't do info and tag" />
+    <MESSAGE value="Point 3D test done" />
+    <MESSAGE value="change key to final" />
+    <MESSAGE value="spelling mistake" />
+    <MESSAGE value="finished test for node" />
+    <MESSAGE value="gitignore upate" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore upate" />
+  </component>
+</project>
