@@ -1,11 +1,13 @@
+package Ex2;
+
 import api.GeoLocation;
 
 public class Point3D implements GeoLocation {
-    private final int _x;
-    private final int _y;
-    private final int _z;
+    private final double _x;
+    private final double _y;
+    private final double _z;
 
-    public Point3D(int x, int y, int z){
+    public Point3D(double x, double y, double z){
         this._x = x;
         this._y = y;
         this._z = z;
