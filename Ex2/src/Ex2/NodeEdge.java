@@ -1,3 +1,5 @@
+package Ex2;
+
 import api.EdgeData;
 
 public class NodeEdge implements EdgeData {

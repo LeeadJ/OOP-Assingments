@@ -1,3 +1,5 @@
+package Ex2;
+
 import api.GeoLocation;
 import api.NodeData;
 
@@ -9,7 +11,8 @@ public class GraphNode implements NodeData {
     private int tag;
 
     public GraphNode(int key, GeoLocation g){
-
+        this.key = key;
+        this.location = g;
     }
 
     @Override

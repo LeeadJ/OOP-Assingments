@@ -1,24 +1,20 @@
+package Ex2;
+
 import api.DirectedWeightedGraph;
 import api.EdgeData;
 import api.NodeData;
 
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
 
 public class DWG implements DirectedWeightedGraph {
-    private GraphNode node;
-    private NodeEdge edge;
-    private HashMap<Integer, NodeEdge> my_map;
+    private Map<DWG, List<NodeEdge> > map = new HashMap<>();
 
-
-    /**Constructor*/
-    public DWG(){
-        this.node = new GraphNode();
-    }
 
     @Override
     public NodeData getNode(int key) {
-
         return null;
     }
 
