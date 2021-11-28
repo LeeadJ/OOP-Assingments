@@ -7,11 +7,21 @@ public class NodeEdge implements EdgeData {
     private String info;
     private int tag;
 
-
+    /** Constructors */
     public NodeEdge(int Src, double Weight, int Dest){
         this.src = Src;
         this.weight = Weight;
         this. dest = Dest;
+        this.info = null;
+
+    }
+    // Copy:
+    public NodeEdge(NodeEdge other){
+        this.src = other.src;
+        this.weight = other.weight;
+        this.dest = other.dest;
+        this.info = other.info;
+        this.tag = other.tag;
     }
 
     @Override

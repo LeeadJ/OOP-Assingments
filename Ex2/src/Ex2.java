@@ -30,7 +30,7 @@ public class Ex2 {
         return ans;
     }
     /**
-     * This static function will run your GUI using the json fime.
+     * This static function will run your GUI using the json file.
      * @param json_file - a json file (e.g., G1.json - G3.gson)
      *
      */

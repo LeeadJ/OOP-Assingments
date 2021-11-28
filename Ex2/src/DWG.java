@@ -2,14 +2,23 @@ import api.DirectedWeightedGraph;
 import api.EdgeData;
 import api.NodeData;
 
+import java.util.HashMap;
 import java.util.Iterator;
 
 public class DWG implements DirectedWeightedGraph {
     private GraphNode node;
     private NodeEdge edge;
+    private HashMap<Integer, NodeEdge> my_map;
+
+
+    /**Constructor*/
+    public DWG(){
+        this.node = new GraphNode();
+    }
 
     @Override
     public NodeData getNode(int key) {
+
         return null;
     }
 
