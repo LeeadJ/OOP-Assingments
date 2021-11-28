@@ -4,7 +4,7 @@ import api.GeoLocation;
 import api.NodeData;
 
 public class GraphNode implements NodeData {
-    private int key;
+    private final int key;
     private GeoLocation location;
     private double weight;
     private String info;
